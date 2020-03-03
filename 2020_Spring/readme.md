@@ -84,7 +84,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Ryu, Sam
 
-- [ ] Sepielli, Joshua
+- [ ] Sepielli, Joshua (@debasu trying to make changes to Joshua's repo :smile:)
 
 - [ ] Sherpa, Nima
 
